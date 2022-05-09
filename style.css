@@ -415,13 +415,12 @@ footer p{
         margin-right: 25px;
     }
     input:focus{
-        border: 3px solid #121115;
-        
-        outline: none;
+        outline: 3px solid rgba(0, 0, 0, 1);;
      
     }
     .text-area:focus{
-        border: 3px solid #121115;
+
       
-        outline: none;
+        outline: 3px solid rgba(0, 0, 0, 1);
+      
     }
