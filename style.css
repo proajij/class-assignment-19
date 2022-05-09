@@ -221,6 +221,7 @@ transition: .4s;
 	margin-right: 20px;
 	transition: .4s;
 	margin-top: 100px;
+	cursor:pointer;
 }
 .card .card-img{
     padding-bottom: 15px;
